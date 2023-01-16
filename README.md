@@ -16,7 +16,7 @@ To test your knowledge of Japanese brands, use the following command:
 
 To test your knowledge of German brands, use the following command:
 
-```python3 watch_brands_test -g```
+```python3 watch_brands_test.py -g```
 
 You can also use the following command to see the help message of the script:
 
